@@ -1,0 +1,11 @@
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy main restricted
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-updates main restricted
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy universe
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-updates universe
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy multiverse
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-updates multiverse
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-backports main restricted universe multiverse
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-security main restricted
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-security universe
+deb http://ubuntu.mirror.garr.it/ubuntu/ jammy-security multiverse
+
