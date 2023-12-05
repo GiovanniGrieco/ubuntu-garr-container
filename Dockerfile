@@ -1,4 +1,5 @@
-FROM docker.io/ubuntu:22.04
+ARG UBUNTU_VER=22.04
+FROM docker.io/ubuntu:${UBUNTU_VER}
 
 ENV DEBIAN_FRONTEND=noninteractive
 
